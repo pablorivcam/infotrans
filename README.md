@@ -10,7 +10,7 @@ Las transferencias según su tipo podrán ser:
    3. Transferencias a las que se le aplica un porcentaje según el tiempo que pasase desde su registro hasta su procesado.
 
 Cada vez que una transferencia es añadida se le aplica una validación para decidir si es o no correcta.
-En caso de tener algún error (fecha, id, cantidad erróneas), el informe muestra el resultado de la validación.
+En caso de tener algún error (fecha, id, cantidades erróneas), el informe muestra el resultado de la validación.
 
 ## Ejecución
 
